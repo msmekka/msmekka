@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msmekka
 - 👀 I’m interested in Cloud, DevOps, and 5G
-- 🌱 I’m currently learning AWS DevOps
+- 🌱 I’m currently learning Go and AWS DevOps
 - 💞️ I’m looking to collaborate on CI in the cloud
 - 📫 How to reach me @mekkacodes
 
