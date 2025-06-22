@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msmekka
 - 👀 I’m interested in AI, Cloud, DevOps, and 5G
-- 🌱 I’m currently learning Go and AWS DevOps
+- 🌱 I’m currently learning Go and AI
 - 💞️ I’m looking to collaborate on OpenSource AI Projects
 - 📫 How to reach me @mekkacodes
 
