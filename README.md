@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msmekka
-- 👀 I’m interested in AI, Cloud, DevOps, and 5G
+- 👀 I’m interested in AI, Cloud, DevOps, and AI
 - 🌱 I’m currently studying the technosocial
 - 💞️ I’m looking to collaborate on OpenSource AI Projects and projects that center the human.
 - 📫 How to reach me @mekkacodes and @msmekka
