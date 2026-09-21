@@ -1,24 +1,31 @@
 # Mekka Williams
+ Study · Build · Teach · Lead
 
 Engineering leader who stays close to the code and the team. I build developer
 tools and platform infrastructure, I teach, and I think a lot about who
 technology is actually for.
 
-**Now:** Recurse Center, F1'26 batch. Building
+**Build:** Recurse Center, F1'26 batch. Focused on combining AST and energy benchmarks
+to improve on insights and feedback to developers on the impact of their algorithmic
+decisions. #greencode #greensoftware. In the process I published
 [AST Explorer](https://astexplorer.recurse.com) — a syntax tree exploration
 tool covering Python, JavaScript, TypeScript, TSX, Go, and Rust.
 
-**Teaching:** study curriculum and workshop material through
-[SixOneOne](https://sixoneonedev.com) — cybersecurity, AI, and autonomous
-driving, much of it built for students who haven't been handed much access to
-this field.
+**Teach** [SixOneOne - Teach](https://sixoneonedev.com/#services). I enjoy sharing what 
+I've learned. Teaching also helps you to practice translation and tests your own understanding. 
+I volunteer with Step Up to STEM and teach rising high schoolers about cybersecurity and 
+AI. Check out my pinned repos and the SixOneOne site for more info.
 
-**Background:** founded and led an applied AI research lab in an Office of the
-CTO. Built internal developer platforms and CI infrastructure serving thousands
-of engineers. Spent a long stretch on low-level systems and client software.
+**Study** [SixOneOne - Study](https://sixoneonedev.com/#study) I'm studying the technosocial.
+I understand that technology is public policy now. Like it or not we all have to under-
+stand both the technical and the social and be active participants in a world we want
+to live in and leave for others to endure. I am particularly interested in technology
+and the under commons. Check out my current curriculum at the SixOneOne site. I write
+about my readings at [substack.com/@mekkacodes](https://substack.com/@mekkacodes).
 
-Currently studying the technosocial. I write at
-[substack.com/@mekkacodes](https://substack.com/@mekkacodes).
+**Background:** Computer scientists, software engineer, builder, Director, mother, daughter
+sister, woman, human.
+
 
 [LinkedIn](https://linkedin.com/in/mekkacodes) · [SixOneOne](https://sixoneonedev.com)
 <!---
