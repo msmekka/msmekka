@@ -2,7 +2,7 @@
  Study · Build · Teach · Lead
 
 Among many things, I am an engineering leader who stays close to the code and the team. 
-I build , I teach, I study, and I think a lot about who technology is actually for.
+I build ,I teach, I study, and I think a lot about who technology is actually for.
 
 **Build:** Recurse Center, F1'26 batch. Focused on combining AST and energy benchmarks
 to improve on insights and feedback to developers on the impact of their algorithmic
@@ -16,13 +16,13 @@ I volunteer with Step Up to STEM and teach rising high schoolers about cybersecu
 AI. Check out my pinned repos and the SixOneOne site for more info.
 
 **Study** [SixOneOne - Study](https://sixoneonedev.com/#study) I'm studying the technosocial.
-I understand that technology is public policy now. Like it or not we all have to under-
+I understand that technology is public policy now. Like it or not we all have to under
 stand both the technical and the social and be active participants in a world we want
 to live in and leave for others to endure. I am particularly interested in technology
-and the under commons. Check out my current curriculum at the SixOneOne site. I write
+and the undercommons. Check out my current curriculum at the SixOneOne site. I write
 about my readings at [substack.com/@mekkacodes](https://substack.com/@mekkacodes).
 
-**Background:** Computer scientists, software engineer, builder, Director, mother, daughter
+**Background:** Computer scientist, software engineer, builder, Director, mother, daughter,
 sister, woman, human.
 
 
