@@ -1,9 +1,8 @@
 # Mekka Williams
  Study · Build · Teach · Lead
 
-Engineering leader who stays close to the code and the team. I build developer
-tools and platform infrastructure, I teach, and I think a lot about who
-technology is actually for.
+Among many things, I am an engineering leader who stays close to the code and the team. 
+I build , I teach, I study, and I think a lot about who technology is actually for.
 
 **Build:** Recurse Center, F1'26 batch. Focused on combining AST and energy benchmarks
 to improve on insights and feedback to developers on the impact of their algorithmic
