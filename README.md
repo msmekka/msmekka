@@ -17,11 +17,12 @@ I volunteer with Step Up to STEM and teach rising high schoolers about cybersecu
 AI. Check out my pinned repos and the SixOneOne site for more info.
 
 **Study** [SixOneOne - Study](https://sixoneonedev.com/#study) I'm studying the technosocial.
-I understand that technology is public policy now. Like it or not we all have to under
+I now understand that technology is public policy. Like it or not we all have to under
 stand both the technical and the social and be active participants in a world we want
 to live in and leave for others to endure. I am particularly interested in technology
-and the undercommons. Check out my current curriculum at the SixOneOne site. I write
-about my readings at [substack.com/@mekkacodes](https://substack.com/@mekkacodes).
+and the [undercommons][https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf]. 
+Check out my current curriculum at the SixOneOne site link. I write about my readings at 
+[substack.com/@mekkacodes](https://substack.com/@mekkacodes).
 
 **Background:** Computer scientist, software engineer, builder, Director, mother, daughter,
 sister, woman, human.
