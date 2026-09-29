@@ -20,7 +20,7 @@ AI. Check out my pinned repos and the SixOneOne site for more info.
 I now understand that technology is public policy. Like it or not we all have to under
 stand both the technical and the social and be active participants in a world we want
 to live in and leave for others to endure. I am particularly interested in technology
-and the [undercommons][https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf]. 
+and the [undercommons](https://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf). 
 Check out my current curriculum at the SixOneOne site link. I write about my readings at 
 [substack.com/@mekkacodes](https://substack.com/@mekkacodes).
 
