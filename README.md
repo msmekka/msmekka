@@ -3,7 +3,7 @@
 
 Among many things, I am an engineering leader who stays close to the code and the team. 
 I build, I teach, I study, and I think a lot about who and what technology is actually for. 
-And redefining the "system" that we target in its development.
+And redefining the "system" we target in its development.
 
 **Build:** Recurse Center, F1'26 batch. Focused on combining AST and energy benchmarks
 to improve on insights and feedback to developers on the impact of their algorithmic
